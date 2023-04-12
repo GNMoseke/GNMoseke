@@ -1,16 +1,12 @@
-### Hi there 👋
+# What's Poppin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**GNMoseke/GNMoseke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤵 About Me:
+- 🏦 I work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL, along with keeping our deployments up and running on k8s.
+- 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
+- 💬 Ask me about Quantum Computing, Distance Running, or D&D
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🐱My Github stats:
+![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=GNMoseke&show_icons=true&title_color=ffc857&theme=synthwave&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNMoseke&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.fontFamily": "'JetBrains Mono', 'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font'",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "workbench.cloudChanges.autoResume": "off",
+    "workbench.enableExperiments": false,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13
+}

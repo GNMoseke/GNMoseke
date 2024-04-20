@@ -2,8 +2,9 @@
 
 ### 🤵 About Me:
 - 🏦 I work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL, along with keeping our deployments up and running on k8s.
+- 🌱 I’m currently learning Rust & (extremely slowly) vim
 - 🤔 I use daily ```.swift```, ```.docker```, ```.sql```
-- 💬 Ask me about Quantum Computing, Distance Running, or D&D
+- 💬 Ask me about Distance Running, Bouldering, or D&D
 - 😄 Pronouns: He/Him
 
 ---

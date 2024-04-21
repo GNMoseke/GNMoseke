@@ -1,6 +1,7 @@
 format = """
 [](#9A348E)\
 $username\
+$battery\
 [](bg:#DA627D fg:#9A348E)\
 $directory\
 [](fg:#DA627D bg:#33658A)\
@@ -67,3 +68,15 @@ format = '[ $symbol ($version) ]($style)'
 symbol = ""
 style = "bg:#86BBD8 fg:#0E1011"
 format = '[ $symbol ($version) ]($style)'
+
+[battery]
+disabled = false
+full_symbol = '󰁹'
+charging_symbol = '󰂄 '
+discharging_symbol = '󰂃'
+empty_symbol = '󰂎'
+format = '[$symbol$percentage ]($style)'
+
+[[battery.display]]
+threshold = 100
+style = "bg:#9A348E fg:#0E1011"

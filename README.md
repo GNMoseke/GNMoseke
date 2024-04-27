@@ -10,4 +10,4 @@
 ---
 ### 🐱My Github stats:
 ![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=GNMoseke&show_icons=true&title_color=ffc857&theme=synthwave&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNMoseke&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNMoseke&layout=compact&text_color=daf7dc&bg_color=151515&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)

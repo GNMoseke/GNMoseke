@@ -1,5 +1,5 @@
 if status is-interactive
-    # Commands to run in interactive sessions can go here
+    set -g $fish_greeting $(fortune)
 end
 
 # starship
@@ -15,3 +15,4 @@ alias crabrave="open 'https://youtu.be/LDU_Txk06tM?t=28'"
 alias vim="nvim"
 alias docker="podman"
 alias cat="batcat"
+alias loc="tokei"

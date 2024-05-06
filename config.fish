@@ -5,6 +5,8 @@ end
 # starship
 starship init fish | source
 
+set --global --export MANPAGER batcat
+
 export PATH="$PATH:/opt/nvim/"
 
 # ===== Convenience Aliases =====

@@ -1,8 +1,8 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "terminal.integrated.cursorStyle": "line",
-    "editor.fontFamily": "'JetBrains Mono', 'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
-    "terminal.integrated.fontFamily": "'FiraCode Nerd Font'",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font'",
     "terminal.integrated.defaultProfile.linux": "fish",
     "workbench.cloudChanges.autoResume": "off",
     "workbench.enableExperiments": false,

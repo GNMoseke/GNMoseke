@@ -1,6 +1,8 @@
+set -g fish_greeting $(fortune)
+
 if status is-interactive
-    set -g fish_greeting $(fortune)
-    tmux
+and not set -q TMUX
+    exec tmux
 end
 
 # starship

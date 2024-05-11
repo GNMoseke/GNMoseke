@@ -22,5 +22,3 @@ alias vim="nvim"
 alias docker="podman"
 alias cat="batcat"
 alias loc="tokei"
-alias j-khares="cd ~/Documents/Code/khares"
-

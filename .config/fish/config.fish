@@ -11,7 +11,6 @@ starship init fish | source
 set --global --export MANPAGER batcat
 
 export PATH="$PATH:/opt/nvim/"
-export PATH="$PATH:/home/garrett/Documents/SDKs/flutter/bin"
 
 # ===== Convenience Aliases =====
 # ensure lsd is installed: https://github.com/lsd-rs/lsd

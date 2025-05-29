@@ -1,12 +1,4 @@
 # What's Poppin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-### 🤵 About Me:
-- 🏦 I work at PassiveLogic, an HVAC controls startup where I develop the API using GraphQL, Swift Vapor, and PostgreSQL, along with keeping our deployments up and running on k8s.
-- 🌱 I’m currently improving my Rust 🦀
-- 🤔 I use daily `.swift`, `.docker`, `.sql`, `.tf`
-- 💬 Ask me about Distance Running, Bouldering, or D&D
-- 😄 Pronouns: He/Him
-
 ---
 
 <div align="center">
